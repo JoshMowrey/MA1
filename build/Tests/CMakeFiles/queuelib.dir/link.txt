@@ -1,0 +1,2 @@
+/usr/bin/ar qc libqueuelib.a CMakeFiles/queuelib.dir/queue.cpp.o
+/usr/bin/ranlib libqueuelib.a

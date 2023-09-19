@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -g -rdynamic CMakeFiles/queue.h.dir/queue.cpp.o CMakeFiles/queue.h.dir/testQueue.cpp.o CMakeFiles/queue.h.dir/main.cpp.o -o queue.h 

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/josh/MA1/build",
+  "command": "/usr/bin/c++  -I/home/josh/MA1/build/include -g -o CMakeFiles/MA1.dir/main.cpp.o -c /home/josh/MA1/main.cpp",
+  "file": "/home/josh/MA1/main.cpp"
+},
+{
+  "directory": "/home/josh/MA1/build",
+  "command": "/usr/bin/c++  -I/home/josh/MA1/build/include -g -o CMakeFiles/MA1.dir/queue.cpp.o -c /home/josh/MA1/queue.cpp",
+  "file": "/home/josh/MA1/queue.cpp"
+},
+{
+  "directory": "/home/josh/MA1/build",
+  "command": "/usr/bin/c++  -I/home/josh/MA1/build/include -g -o CMakeFiles/MA1.dir/testQueue.cpp.o -c /home/josh/MA1/testQueue.cpp",
+  "file": "/home/josh/MA1/testQueue.cpp"
+}
+]
